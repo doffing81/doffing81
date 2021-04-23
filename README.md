@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Brett Doffing.
+### Hi there 👋, my name is Brett Doffing. I am a Data Scientist and Software Engineer looking to empower individuals and businesses with technology.
 
 - 🔭 I’m currently working on a project for [Human Rights First](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a)
 - 🌱 I’m currently learning Python, machine learning, and statistical analysis.
