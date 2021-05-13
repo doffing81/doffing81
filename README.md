@@ -1,14 +1,13 @@
-### Hi there 👋, my name is Brett Doffing. I am a Data Scientist and Software Engineer looking to empower individuals and businesses with technology.
+### Software Engineer and Data Scientist looking to empower individuals and businesses.
 
-- 🔭 I’m currently working on a project for [Human Rights First](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a)
+- 🔭 I’m currently contributing to [The Block Reward](https://github.com/theblockreward)
 - 🌱 I’m currently learning Python, machine learning, and statistical analysis.
 - 👯 I’m looking to collaborate on open source Bitcoin projects.
 - 📫 How to reach me: doffing.brett@gmail.com
-- ⚡ Fun fact: I've read many of Soren Kierkegaard's works.
 
-<img src="https://github-readme-stats.vercel.app/api?username=doffing81&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<img src="https://github-readme-stats.vercel.app/api?username=doffing81&show_icons=true&theme=slateorange&title_color=F7931A&text_color=fff&icon_color=F7931A">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doffing81&theme=radical&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doffing81&theme=slateorange&title_color=F7931A&text_color=fff&layout=compact)
 
 <!--
 **doffing81/doffing81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
