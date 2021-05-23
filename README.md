@@ -6,9 +6,9 @@
 - 📫 How to reach me: doffing.brett@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=doffing81&show_icons=true&theme=slateorange&title_color=F7931A&text_color=fff&icon_color=F7931A">
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doffing81&theme=slateorange&title_color=F7931A&text_color=fff&layout=compact)
-
+-->
 <!--
 **doffing81/doffing81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
